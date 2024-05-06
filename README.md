@@ -1,5 +1,4 @@
 # phase-4
-# Question 1
 # Introduction to Testing
 Software testing is defined as the process of evaluating software to identify defects or bugs. It involves the execution of software/system components using manual or automated tools to evaluate
 one or more properties of interest. 
@@ -23,7 +22,7 @@ Early bug detection helps in maintaining the overall project timeline and budget
 
 • User Trust and Satisfaction: A well-tested software demonstrates reliability and performance, which in turn builds user trust and satisfaction. It ensures that the software is ready for production and can meet the user's needs without frequent crashes or downtime.
 
-# Question 2
+
 # Purpose of Testing
 •Early Defect Identification
 
