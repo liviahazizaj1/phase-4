@@ -36,7 +36,8 @@ It's also about making sure each part of the software does its job right. When t
 
 •Rigers Poleshi
 
-#Execution of tests
+# Execution of tests
+
 1.Execution of tests
 
 Executing tests involves running the test scripts or cases that have been prepared to challenge the software application and observe its responses. This can be done manually by testers who perform the tasks according to their test plans, or automatically using software tools that execute predefined actions and compare the outcomes with expected results. The process of running tests should be systematic and repeatable to ensure reliability and consistency of testing.
@@ -55,7 +56,7 @@ The results of test executions generally fall into one of three categories:
 
 Test results need to be thoroughly analyzed and documented. Clear reports should be prepared summarizing the outcomes, detailing the conditions under which tests were executed, what the expected outcomes were, and the actual outcomes. This documentation is crucial for developers to understand failures and for stakeholders to make informed decisions regarding the software's release readiness.
 
-#Test Coverage
+# Test Coverage
 
 1.	Definition and Importance of Test Coverage
 
