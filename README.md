@@ -33,3 +33,5 @@ Catching these bugs early can save a lot of time and money, and makes the final 
 Performance
 
 It's also about making sure each part of the software does its job right. When testing, we check each piece individually (like checking the grammar, spelling, and punctuation in an essay) and then see if all parts work well together (like making sure all paragraphs support the thesis).
+
+•Rigers Poleshi
