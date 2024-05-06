@@ -75,4 +75,5 @@ To achieve high test coverage, one should:
 - Develop a comprehensive test plan that includes a variety of test cases, covering all functional requirements, edge cases, and error conditions.
 - Use coverage analysis tools to identify untested parts of the code and develop additional tests to cover these areas.
 - Continuously review and update the tests as the software evolves and new features are added.
+  
 •Klea Murati
