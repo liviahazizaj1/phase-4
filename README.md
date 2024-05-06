@@ -36,6 +36,15 @@ It's also about making sure each part of the software does its job right. When t
 
 •Rigers Poleshi
 
+# Choosing Testing Frameworks
+
+PHPUnit is a framework independent library for unit testing PHP. Unit testing is a method by which small units of code are tested against expected results. Traditional testing tests an app as a whole meaning that individual components rarely get tested alone.
+
+A JavaScript framework is a collection of JavaScript code libraries that provide a web developer with pre-written code for routine programming tasks. Frameworks are structures with a particular context and help you create web applications within that context
+
+
+
+
 # Execution of tests
 
 1.Execution of tests
